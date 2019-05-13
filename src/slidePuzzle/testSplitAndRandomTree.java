@@ -46,10 +46,10 @@ public class testSplitAndRandomTree {
 		
 		
 		
-		myGB2.populateBoard(myGB2.root); 
-		
-
-		myGB2.printIntArray(myGB2.ordToPrint);
+//		myGB2.populateBoard(myGB2.root); 
+//		
+//
+//		myGB2.printIntArray(myGB2.ordToPrint);
 		
 		
 		
